@@ -1,1 +1,31 @@
 #readme
+
+# 2015w1:
+* http://ubcgeog472.github.io/2015w1/2011_Nasa_Bremer/2011_vancouver_crime_map_nasa.html 
+* http://ubcgeog472.github.io/2015w1/2005_Mireille_Seguin/Vancitycrime2005_Mireille_Seguin.html 
+* http://ubcgeog472.github.io/2015w1/2004_Belinda_Liu/vancrime2004_belinda_liu.html 
+* http://ubcgeog472.github.io/2015w1/2005_Megan_Fyfe/vancrime2005_megan_fyfe.html 
+* http://ubcgeog472.github.io/2015w1/2006_Charles_Leung/vancrime2006_charles_leung.html 
+* http://ubcgeog472.github.io/2015w1/2006_Sophie_Lee/vancrime2006_sophie_lee.html 
+* http://ubcgeog472.github.io/2015w1/2007_Audrey_Schalhoub/vancrime2007_audrey_schalhoub.html 
+* http://ubcgeog472.github.io/2015w1/2007_Laura_Jickling/vancrime2007_laura_jickling_2.html 
+* http://ubcgeog472.github.io/2015w1/2007_Laura_Jickling/vancrime2007_laura_jickling.html 
+* http://ubcgeog472.github.io/2015w1/2008_Alison_Carr/vancrime2008_alison_carr.html 
+* http://ubcgeog472.github.io/2015w1/2008_Michael_Jerowsky/vancrime2008_micheal_jerowsky.html 
+* http://ubcgeog472.github.io/2015w1/2009_Maggie_Guo/Vancrime2009_Meijing_Guo_1st.html 
+* http://ubcgeog472.github.io/2015w1/2009_Maggie_Guo/Vancrime2009_Meijing_Guo_2nd.html 
+* http://ubcgeog472.github.io/2015w1/2009_Maggie_Guo/Vancrime2009_Meijing_Guo_3rd.html 
+* http://ubcgeog472.github.io/2015w1/2009_Maggie_Guo/Vancrime2009_Meijing_Guo_4th.html 
+* http://ubcgeog472.github.io/2015w1/2009_Yunfei_Xu/vancrime2009_Yunfei_Xu.html 
+* http://ubcgeog472.github.io/2015w1/2010_June_Tse/vancrime2010_june_tse.csv 
+* http://ubcgeog472.github.io/2015w1/2010_June_Tse/vancrime2010_june_tse.html 
+* http://ubcgeog472.github.io/2015w1/2010_Michelle_Pang/vancrime2010_michelle_pang.html 
+* http://ubcgeog472.github.io/2015w1/2011_Bob_Wang/vancrime2011_Bob_Wong.html 
+* http://ubcgeog472.github.io/2015w1/2012_Alex_Graham/vancrime2012_Alex_Graham.html 
+* http://ubcgeog472.github.io/2015w1/2012_Luke_Terhart/vancrime2012_Luke_Terhart.html 
+* http://ubcgeog472.github.io/2015w1/2013_Avyi_Koulas/VanCrime2013_Avyi_Koulas.html 
+* http://ubcgeog472.github.io/2015w1/2013_Ellen_Hayes/VanCrime2013_Ellen_Hayes.html 
+* http://ubcgeog472.github.io/2015w1/2014_Ashley_Montgomery/vancrime2014_ashley_montgomery.html 
+* http://ubcgeog472.github.io/2015w1/2014_David_Zhang/vancrime2014_David_Zhang.html 
+* http://ubcgeog472.github.io/2015w1/2014_Gloria_Cho/vancrime2014_gloria_cho.html 
+* http://ubcgeog472.github.io/2015w1/2013_Jonathan_Rayher/VanCrimes2013_Jonathan_Rayher.html 
